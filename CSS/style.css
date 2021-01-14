@@ -1,0 +1,38 @@
+.collapse-align{
+    float:right;
+}
+
+
+
+
+
+.color-1{
+    color:#fd7e14;
+}
+.color-2{
+    color:rgb(18, 60, 109)
+}
+.color-3{
+    background-color: rgb(238, 234, 234);
+}
+.cart-size{    /*must be removed*/
+    width:20px;
+}
+.bg-color{
+    background-color: rgb(246, 242, 237);
+}
+.border-radius{    
+    border-radius: 15px;
+}
+.foot-border{
+    border: none;
+}
+.sec-width{    /*must be removed*/
+    width:80%
+}
+.card-size{   /*must be removed*/
+    width: 30%;
+}
+.img-height{  /*must be removed*/
+    height:70%
+}
